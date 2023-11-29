@@ -1,5 +1,5 @@
-<div align="center"> <h1>  👩‍🌾🌿 CropFusionAI  </h1> </div>
-<div align="center"> <h4>  🔥 Official Website 👉 https://cropfusionai.vercel.app <div align="center"> </h4> </div>
+<div align="center"> <h1>  👩‍🌾🌿 Crop_Recommendation_System  </h1> </div>
+<div align="center"> <h4>  🔥 Official Website 👉 https://cropai.vercel.app <div align="center"> </h4> </div>
 
 An Open source Crop and Fertilizer Recommendation tool for Farmers. Machine Learning enabled system that recommends the best crop to grow from across 22 different classes of crops based on various metrics including soil type, rainfall, humidity, and nutrient levels.
 
@@ -20,9 +20,9 @@ By using open source technologies, we also hope to foster a community of farmers
 Below are some of the stages of this project for sucessfull development and deployment of both frontend and backend services.
 
 - Data Collection & ML model training
-    - In this stage we collect the required training/testing datasets for building the crop & fertilizer recommendation models. Find training notebook [here.](https://github.com/deepeshdm/CropFusionAI-Backend/tree/main/notebooks)
+    - In this stage we collect the required training/testing datasets for building the crop & fertilizer recommendation models.
 - Backend Deployment of ML model API's
-    - Once we have build the ML models we deploy and expose them as API. In our case, we have opted for FastAPI for building the backend services [here](https://github.com/deepeshdm/CropFusionAI-Backend)
+    - Once we have build the ML models we deploy and expose them as API. In our case, we have opted for FastAPI for building the backend services
 - Frontend Interface with 3D model
     - Once the backend has been setup , we create a user friendly frontend application with ReactJS, so that even non-technical people can easily interact with the ML models.
 
@@ -34,7 +34,7 @@ Below are some of the stages of this project for sucessfull development and depl
 
 1. Git clone the project repository on your local system
 ```javascipt
-git clone https://github.com/deepeshdm/CropFusionAI.git
+git clone https://github.com/Himanshu7901/Crop_Recommendation_System.git
 cd CropFusionAI
 ```
 
@@ -56,7 +56,7 @@ npm start
 
 
 ## Links to Resources
-- Backend Code for Rest API's [here](https://github.com/deepeshdm/CropFusionAI-Backend)
+- Backend Code for Rest API's 
 - Crop Recommendation Dataset [here](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 - Fertilizer Recommendation Dataset [here](https://www.kaggle.com/datasets/gdabhishek/fertilizer-prediction)
 - 3D Model [here](https://sketchfab.com/3d-models/corn-field-scarecrow-af3361986a744421bc93c8a78caf7d89)
